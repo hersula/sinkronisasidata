@@ -1,0 +1,36 @@
+D:\DATA RIA BUSANA\APLIKASI\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.frmUtama.resources
+D:\DATA RIA BUSANA\APLIKASI\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.Resources.resources
+D:\DATA RIA BUSANA\APLIKASI\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.vbproj.GenerateResource.Cache
+D:\DATA RIA BUSANA\APLIKASI\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\bin\Debug\SinkronisasiData.exe
+D:\DATA RIA BUSANA\APLIKASI\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\bin\Debug\SinkronisasiData.pdb
+D:\DATA RIA BUSANA\APLIKASI\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\bin\Debug\SinkronisasiData.xml
+D:\DATA RIA BUSANA\APLIKASI\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.exe
+D:\DATA RIA BUSANA\APLIKASI\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.xml
+D:\DATA RIA BUSANA\APLIKASI\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.pdb
+D:\DATA RIA BUSANA\APLIKASI\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.FrmKoneksi.resources
+D:\DATA RIA BUSANA\APLIKASI\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.vbprojResolveAssemblyReference.cache
+D:\DATA RIA BUSANA\APLIKASI\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\bin\Debug\Npgsql.dll
+D:\DATA RIA BUSANA\APLIKASI\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\bin\Debug\Mono.Security.dll
+D:\xampp\htdocs\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\bin\Debug\SinkronisasiData.exe
+D:\xampp\htdocs\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\bin\Debug\SinkronisasiData.pdb
+D:\xampp\htdocs\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\bin\Debug\SinkronisasiData.xml
+D:\xampp\htdocs\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.FrmKoneksi.resources
+D:\xampp\htdocs\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.frmUtama.resources
+D:\xampp\htdocs\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.Resources.resources
+D:\xampp\htdocs\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.vbproj.GenerateResource.Cache
+D:\xampp\htdocs\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.exe
+D:\xampp\htdocs\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.xml
+D:\xampp\htdocs\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.pdb
+D:\xampp\htdocs\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\bin\Debug\MySql.Data.DLL
+D:\xampp\htdocs\SINKRONISASI_DATA\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.vbprojResolveAssemblyReference.cache
+E:\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.exe
+E:\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.xml
+E:\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.pdb
+E:\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.vbprojResolveAssemblyReference.cache
+E:\SinkronisasiData\SinkronisasiData\bin\Debug\SinkronisasiData.exe
+E:\SinkronisasiData\SinkronisasiData\bin\Debug\SinkronisasiData.pdb
+E:\SinkronisasiData\SinkronisasiData\bin\Debug\SinkronisasiData.xml
+E:\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.FrmKoneksi.resources
+E:\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.frmUtama.resources
+E:\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.Resources.resources
+E:\SinkronisasiData\SinkronisasiData\obj\x86\Debug\SinkronisasiData.vbproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupSinkronisasi", "SetupSinkronisasi\SetupSinkronisasi.vdproj", "{21605B2D-02C7-42E1-A9E8-CFAABE165294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21605B2D-02C7-42E1-A9E8-CFAABE165294}.Debug|Default.ActiveCfg = Debug
+		{21605B2D-02C7-42E1-A9E8-CFAABE165294}.Debug|Default.Build.0 = Debug
+		{21605B2D-02C7-42E1-A9E8-CFAABE165294}.Release|Default.ActiveCfg = Release
+		{21605B2D-02C7-42E1-A9E8-CFAABE165294}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
